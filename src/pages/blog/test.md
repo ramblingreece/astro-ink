@@ -1,6 +1,7 @@
 ---
 layout: $/layouts/post.astro
 title: Test
+date: 2022-04-30
 description: Test desc
 tags:
   - test
@@ -9,9 +10,10 @@ tags:
   - newnew
 author: Rambling Reece
 authorTwitter: "@RamblingReece"
-date: 2022-04-30T12:53:34.884Z
 ---
 This is a test page
+
+With a new line
 
 ```powershell
 $test = "Hello"
