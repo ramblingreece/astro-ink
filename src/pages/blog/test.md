@@ -9,9 +9,11 @@ tags:
   - newnew
 author: Rambling Reece
 authorTwitter: "@RamblingReece"
-date: 2022-04-30T12:53:34.884Z
+date: 2022-04-30
 ---
 This is a test page
+
+With a new line
 
 ```powershell
 $test = "Hello"
